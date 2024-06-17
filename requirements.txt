@@ -1,0 +1,8 @@
+selenium
+pandas
+time
+datetime
+glob
+streamlit
+matplotlib
+japanize_matplotlib
