@@ -28,9 +28,3 @@ if csvfile is not None:
     st.pyplot(plot.plot())
 else:
     st.write('ファイルをアップロードしてください')
-
-    
-if st.button('click'):
-    scray.makedf()
-else:
-    st.write('スクレイピングを実行したい場合、クリックしてください。')
